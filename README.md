@@ -6,6 +6,13 @@ This is a laravel backend server for a flutter doctor's appointment app whereby 
 Clone the repo into a XAMMP or MAMP(htdocs folder) then run composer install followed by npm install then npm run dev. Also I zipped the database(mysql) as export which you can import it to your database environment with already existing data.
 
 ## Screenshots
+
+![Screenshot 2024-07-11 083938](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/5cdeebf9-5776-4a44-8b40-e3d7b3e52df7)
+![Screenshot 2024-07-11 083927](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/b73820ab-f3c1-4037-827e-0818568e817d)
+![Screenshot 2024-07-11 083735](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/272531c8-4e0b-48d6-b6fa-dc8a8994ff07)
+![Screenshot 2024-07-11 083708](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/2f88f7a0-c299-4b87-adaa-e1539de77dab)
+![Screenshot 2024-07-11 083631](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/9837859f-44a0-4bb2-b189-1afa34c990d1)
+![Screenshot 2024-07-11 084000](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/127c3a4e-c160-4bc8-8151-c57527177360)
 ![Screenshot 2024-07-10 232742](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/7c72b70f-c9e4-4d8a-94da-758c7569bd06)
 ![Screenshot 2024-07-10 230823](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/6019400d-0866-4892-a0e2-a2040868e52f)
 ![Screenshot 2024-07-10 231755](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/be876d4c-fbe7-42df-8d9b-a53d2fc94f03)
