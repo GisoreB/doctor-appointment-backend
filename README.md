@@ -22,3 +22,5 @@ Clone the repo into a XAMMP or MAMP(htdocs folder) then run composer install fol
 ![Screenshot 2024-07-10 235049](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/f034197a-0bb2-4b24-bb3f-cb98939cedf1)
 ![Screenshot 2024-07-10 235129](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/c363215e-2311-4971-83bb-c1b86d6ed418)
 ![Screenshot 2024-07-10 235203](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/9b5f875b-bdaa-486c-8ba5-43618a497cc7)
+![Screenshot 2024-07-11 084655](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/af82a1b0-c16b-4e5a-bc7d-3fc71d1cd5de)
+![Screenshot 2024-07-11 084519](https://github.com/GisoreB/doctor-appointment-backend/assets/144854877/f89b45e0-3506-4b3e-8315-cdc27291b987)
